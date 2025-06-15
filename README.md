@@ -8,3 +8,6 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=El-brayan502&theme=react-dark)
+
+
+![Badge](https://img.shields.io/badge/-Free%20Fire%20Edits-blueviolet?style=for-the-badge&logo=appveyor)
