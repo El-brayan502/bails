@@ -1,21 +1,20 @@
-### A reminder
 
-The start of each message ID was changed to ```NJX-```. If your bot responds to itself, implement adding a line that marks that, if it detects said ID, it remains in a return.
+<style>
+.btn-rainbow {
+  padding: 12px 28px;
+  border-radius: 25px;
+  background: linear-gradient(270deg, #ff0080, #7928ca, #2afadf);
+  background-size: 600% 600%;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  animation: rainbow 3s ease infinite;
+}
+@keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+</style>
 
-```Javascript
-
-/* 
-Regularly used method 
-*/
-let m.isBot = m.id.startsWith('BAE5') && m.id.length === 16 || m.id.startsWith('3EB0') && m.id.length === 12 || m.id.startsWith('3EB0') && (m.id.length === 20 || m.id.length === 22) || m.id.startsWith('B24E') && m.id.length === 20;
-
-
-
-/* 
-Method implementing the handling of the "NJX-" prefix in the IDs 
-*/
-let m.isBot = m.id.startsWith('NJX-') || m.id.startsWith('BAE5') && m.id.length === 16 || m.id.startsWith('3EB0') && m.id.length === 12 || m.id.startsWith('3EB0') && (m.id.length === 20 || m.id.length === 22) || m.id.startsWith('B24E') && m.id.length === 20;
-
-if (m.isBot) return;
-
-```
+<a class="btn-rainbow" href="https://wa.me/502XXXXXXXX" target="_blank">💬 WhatsApp</a>
