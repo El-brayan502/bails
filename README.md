@@ -19,3 +19,5 @@
 <a href="https://t.me/tulink">
   <img src="https://img.shields.io/badge/Telegram-Contacto-2CA5E0?style=for-the-badge&logo=telegram" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" />
