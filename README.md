@@ -11,3 +11,11 @@
 
 
 ![Badge](https://img.shields.io/badge/-Free%20Fire%20Edits-blueviolet?style=for-the-badge&logo=appveyor)
+
+
+<a href="https://github.com/El-brayan502">
+  <img src="https://img.shields.io/badge/GitHub-El--brayan502-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://t.me/tulink">
+  <img src="https://img.shields.io/badge/Telegram-Contacto-2CA5E0?style=for-the-badge&logo=telegram" />
+</a>
