@@ -3,3 +3,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-brayan502&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-brayan502&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=El-brayan502&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
