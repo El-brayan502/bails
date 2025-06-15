@@ -1,6 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00ffff&height=200&section=header&text=NyanCatBot%20Dashboard&fontSize=35&fontColor=fff&animation=fadeIn" />
 
+### 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-brayan502&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" width="450"/>
+  *💌 Brayan x Clara 💌*
+</p>
+
+<h1 align="center">🌸 Quiero a mi Novia 🌸</h1>
+
+<p align="center">
+  <img src="https://n.uguu.se/RCMrrruX.gif" width="300"/>
+</p>
+
+---
+
+<p align="center" style="font-size: 20px;">
+  Desde que llegaste, todo es diferente.<br>
+  Mi vida cambió para mejor, y cada día contigo es una razón más para sonreír.<br>
+  Este GitHub es mío, pero mi corazón es tuyo 💖
+</p>
+
+---
+
+<h2 align="center">💕 clarita, tú eres mi todo 💕</h2>
+
+<p align="center">
+  Gracias por acompañarme en cada línea de código, en cada error y en cada logro.<br>
+  No sé qué haría sin ti, pero sé que contigo puedo hacerlo todo.
+</p>
+
+---
+
+<p align="center">
+  <strong>📝 Brayan para clarita</strong><br>
+  <em>Siempre tuyo 💌</em>
 </p>
